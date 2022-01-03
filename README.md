@@ -62,7 +62,8 @@ A 16-week intensive software development Bootcamp with a bias towards holistic l
 and hypertrophy. I am currently trialing the [PHAT](https://advancedbodymetrics.com/workout-routines/the-phat-workout-build-mass-strength/) routine.
 
 #### PC Gaming
-* Single-player open-world games are my favourite, closely followed by single-player/coop horror
+* Single-player open-world games are my favourite, closely followed by single-player/coop horror.
+* I am currently exploring Outer Wilds.
 
 #### Programming
 * I am currently working on a workout tracker, that I aim to turn into a social media platform to encourage and promote healthy lifestyles.
