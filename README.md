@@ -60,20 +60,20 @@ A 16-week intensive software development Bootcamp with a bias towards holistic l
 <details>
 <summary>Non-Tech related</summary>
 
-<h1>Dispatch Manager</h1>
-<h2>WeGo Couriers - Nottingham (September 2019 to August 2021)</h2> 
+<h2>Dispatch Manager</h2>
+<h3>WeGo Couriers - Nottingham (September 2019 to August 2021)</h3> 
 <ul><li>At WEGO couriers, I managed a team of dispatchers to ensure the smooth running of the day to day operations of WEGO Couriers, an environmentally conscious courier company.</li>
 <li>Completed company-wide profit vs. loss analysis to inform the CEO where to invest and where to focus improvements.</li>
 <li>Spent brief period as a Hiring Manager, hiring additional dispatchers and couriers. As a Hiring Manager, I successfully scouted, interviewed and placed over 5 staff who still work there to this day.</li></ul>
-<h1>Planning Manager</h1>
-<h2>Park Logistics - Nottingham (July 2018 to August 2019)</h2>
+<h2>Planning Manager</h2>
+<h3>Park Logistics - Nottingham (July 2018 to August 2019)</h3>
 <ul><li>At Park Logistics, I managed a small team of planners, organising the day to day activities of 12 vans and 24 furniture fitters, covering all areas of England, Scotland and Wales.</li>
 <li>I ensured the smooth running of the business, working to strict KPI’s for weight (1240kg), revenue per van (£500), planned hours (10h/
 day) and miles (200mi/day).</li>
 <li> We would use systems such as Excel, Autoroute, Outlook and an online
 database called Azuralogin.</li></ul>
-<h1>Event Manager</h1>
-<h2>Logiclock Escape Rooms - Nottingham (October 2016 to August 2019)</h2>
+<h2>Event Manager</h2>
+<h3>Logiclock Escape Rooms - Nottingham (October 2016 to August 2019)</h3>
 <ul><li>At Logiclock, I managed and maintained staff by recruiting, orienting, and training employees to the highest standards. I was directly involved in all points of the selection process, from analysing CVs to selecting candidates, interviewing and further orienting and training new starters.</li>
 <li>I was also in charge of completing legal policies, such as writing and maintaining their on-site risk assessments, IT policies and GDPR policies.</li>
 </details>
