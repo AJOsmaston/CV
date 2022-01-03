@@ -88,7 +88,8 @@ database called Azuralogin.</li></ul>
 
 #### Fitness & lifestyle 
 * I attend the gym 5 times per week, focusing on full-body strength
-and hypertrophy. I am currently trialing the [PHAT](https://advancedbodymetrics.com/workout-routines/the-phat-workout-build-mass-strength/) routine.
+and hypertrophy. 
+* I am currently trialing the [PHAT](https://advancedbodymetrics.com/workout-routines/the-phat-workout-build-mass-strength/) routine.
 
 #### PC Gaming
 * Single-player open-world games are my favourite, closely followed by single-player/coop horror.
