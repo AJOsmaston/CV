@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/Linkedin-Anthony%20Osmaston-blue?social&logo=linkedin&labelColor=0077B5&color=ffffff"/>](https://www.linkedin.com/in/ajosmaston/)
 [<img src="https://img.shields.io/badge/Codewars-AJOsmaston-black?social&logo=codewars&labelColor=black&color=red" />](https://www.codewars.com/users/AJOsmaston)
 
-[About](#about) | [Projects](#projects) | [Education](#education) | [Hobbies](#hobbies)
+[About](#about) | [Projects](#projects) | [Education](#education) | [Work History](#experience) | [Hobbies](#hobbies)
 
 </div>
 
@@ -55,6 +55,33 @@ A 16-week intensive software development Bootcamp with a bias towards holistic l
 - AS level Further Mathematics A
 - GCSE 13 A* & A’s including Mathematics, English, Triple Science and French.
 
+## <a name="experience">Work History</a>
+
+<details>
+<summary>Non-Tech related</summary>
+
+<h1>Dispatch Manager</h1>
+<h2>WeGo Couriers - Nottingham (September 2019 to August 2021)</h2> 
+<ul><li>At WEGO couriers, I managed a team of dispatchers to ensure the smooth running of the day to day operations of WEGO Couriers, an environmentally conscious courier company.</li>
+<li>Completed company-wide profit vs. loss analysis to inform the CEO where to invest and where to focus improvements.</li>
+<li>Spent brief period as a Hiring Manager, hiring additional dispatchers and couriers. As a Hiring Manager, I successfully scouted, interviewed and placed over 5 staff who still work there to this day.</li></ul>
+<h1>Planning Manager</h1>
+<h2>Park Logistics - Nottingham (July 2018 to August 2019)</h2>
+<ul><li>At Park Logistics, I managed a small team of planners, organising the day to day activities of 12 vans and 24 furniture fitters, covering all areas of England, Scotland and Wales.</li>
+<li>I ensured the smooth running of the business, working to strict KPI’s for weight (1240kg), revenue per van (£500), planned hours (10h/
+day) and miles (200mi/day).</li>
+<li> We would use systems such as Excel, Autoroute, Outlook and an online
+database called Azuralogin.</li></ul>
+<h1>Event Manager</h1>
+<h2>Logiclock Escape Rooms - Nottingham (October 2016 to August 2019)</h2>
+<ul><li>At Logiclock, I managed and maintained staff by recruiting, orienting, and training employees to the highest standards. I was directly involved in all points of the selection process, from analysing CVs to selecting candidates, interviewing and further orienting and training new starters.</li>
+<li>I was also in charge of completing legal policies, such as writing and maintaining their on-site risk assessments, IT policies and GDPR policies.</li>
+</details>
+<details>
+  <summary>Tech related</summary>
+  <h2>Your company (hopefully) 😉</h2>
+</details>
+
 ## <a name="hobbies">My Hobbies / Interests</a>
 
 #### Fitness & lifestyle 
@@ -70,18 +97,7 @@ and hypertrophy. I am currently trialing the [PHAT](https://advancedbodymetrics.
 * I'm currently conceptualising a nutritional tracker.
 
 
-<!-- ## Work Experience
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
-
+<!-- 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
