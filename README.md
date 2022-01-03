@@ -82,6 +82,8 @@ database called Azuralogin.</li></ul>
   <h2>Your company (hopefully) 😉</h2>
 </details>
 
+<br>
+
 ## <a name="hobbies">My Hobbies / Interests</a>
 
 #### Fitness & lifestyle 
