@@ -26,8 +26,7 @@
 | [Facebook Clone](https://github.com/AJOsmaston/Acebook-st-bals)| A social media news feed with posts, likes and comments | Ruby - Ruby on Rails, RSpec, Capybara, PostgreSQL, Bootstrap | https://acebook-st-bals.herokuapp.com/ |
 | [TDD'ing Codewars](https://github.com/AJOsmaston/codewars)| A 'for-fun' repo to help me improve my TDD skills | Ruby - RSpec, JS - Jest | |
 | | Currently working on: | | |
-| [Workouts (FE)](https://github.com/AJOsmaston/workoutsFE)| An application to track your workouts - would like to develop into a social media for motivation and self-promotion | JS - React, React-Bootstrap, Jest | |
-| [Workouts (BE)](https://github.com/AJOsmaston/workoutsBE)| A collection of API's for storing workout data (in future: accounts, posts, comments) | Ruby - RSpec, Ruby on Rails, PostgreSQL | |
+| [Feedback UI](https://github.com/AJOsmaston/feedback-ui)| First project from https://www.udemy.com/course/react-front-to-back-2022/?src=sac&kw=react+back+to  | JS - React  | |
 
 
 
