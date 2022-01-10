@@ -34,10 +34,12 @@
 
 #### Makers Academy (August - December 2021)
 A 16-week intensive software development Bootcamp with a bias towards holistic learning and emotional intelligence. Areas of focus:
-* Test-Driven Development and pair programming
-* Version control with Git/Github
-* Modern industry development practises including Agile, Scrum, MVP
-* Multiple languages including Javascript, Ruby, HTML, CSS, SQL.
+* Utilised Test-Driven Development in order to approach problem-solving in a structured and methodical manner
+* Practised communication through pair programming, pairing over challenges in a driver/navigator style in order to solve challenges more effectively
+* Utilised version control with Git/Github in order to streamline the workflow of larger group projects, avoiding conflicts and ensuring effective communication
+* Actively conducted code reviews and further practised communication in order to provide constructive feedback
+* Reacted to consumer demands for projects in an agile manner, utilising cutting-edge modern tactics such as user stories and minimum viable product (MVP)
+* Led multiple-day work sprints as a scrum master to ensure our final project was finished in the 2 weeks allocated timeframe
 
 #### MSci Zoology - University of Nottingham (September 2013 - September 2017)
 
