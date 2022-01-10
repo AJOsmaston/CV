@@ -28,6 +28,11 @@
 | | Currently working on: | | |
 | [Feedback UI](https://github.com/AJOsmaston/feedback-ui)| First project from https://www.udemy.com/course/react-front-to-back-2022/?src=sac&kw=react+back+to  | JS - React  | |
 
+## <a name="skills">Skills</a>
+
+#### Quick Learner
+
+During my time at Wego Couriers, I researched and conducted a full scale profit vs. loss business analysis upon request from our CEO, and was given one month to complete the task. At Makers, for our [final project](https://life-of-bernard.herokuapp.com/), I learnt how to use passport.js and Express in the space of two days. I learnt this without it being taught on the course and implemented it so that our Node backend could communicate with our Heroku hosted React frontend, on https.
 
 
 ## <a name="education">Education</a>
