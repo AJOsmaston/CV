@@ -74,7 +74,7 @@ A 16-week intensive software development Bootcamp with a bias towards holistic l
 
 ## <a name="experience">Work History</a>
 
-<h2>Dispatch Manager</h2>
+<h3>Dispatch Manager</h3>
 <h3>WeGo Couriers - Nottingham (September 2019 to August 2021)</h3> 
 <ul>
   <li>Managed a team of dispatchers to ensure the smooth running of the day to day operations</li>
@@ -82,20 +82,20 @@ A 16-week intensive software development Bootcamp with a bias towards holistic l
   <li>Interviewed and successfully hired over 5 current members of staff</li>
   <li>Utilised effective communication between couriers, customers and clients to ensure urgent blood samples were transported between hospitals</li>
 </ul>
-<h2>Planning Manager</h2>
+<h3>Planning Manager</h3>
 <h3>Park Logistics - Nottingham (July 2018 to August 2019)</h3>
 <ul>
   <li>Managed a small team of planners, organising the day to day activities of 12 vans and 24 furniture fitters across the UK</li>
   <li>Ensured the smooth day to day running of the business by working to strict KPI’s, using systems such as Excel, Autoroute, Outlook and an online database called Azuralogin</li>
 </ul>
-<h2>Event Manager</h2>
+<h3>Event Manager</h3>
 <h3>Logiclock Escape Rooms - Nottingham (October 2016 to August 2019)</h3>
 <ul>
   <li>Managed and maintained event staff by recruiting, orienting, and training employees</li>
   <li>Authored various online legal policies, including their on-site risk assessments, IT policies and GDPR policies</li>
 </ul>
 
-<h2>Section Editor (volunteer)</h2>
+<h3>Section Editor (volunteer)</h3>
 <h3>Impact Magazine - Nottingham (July 2016 to July 2017)</h3>
 <ul>
   <li>I was elected section editor for Impact, a student-led magazine and contributed to over 10 magazine editions with over 30 written articles both online and in print</li>
