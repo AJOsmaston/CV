@@ -74,42 +74,33 @@ A 16-week intensive software development Bootcamp with a bias towards holistic l
 
 ## <a name="experience">Work History</a>
 
-<details>
-  <summary>Non-Tech related</summary>
+<h2>Dispatch Manager</h2>
+<h3>WeGo Couriers - Nottingham (September 2019 to August 2021)</h3> 
+<ul>
+  <li>Managed a team of dispatchers to ensure the smooth running of the day to day operations</li>
+  <li>Completed company-wide profit vs. loss analysis to inform the CEO where to invest and where to focus improvements</li>
+  <li>Interviewed and successfully hired over 5 current members of staff</li>
+  <li>Utilised effective communication between couriers, customers and clients to ensure urgent blood samples were transported between hospitals</li>
+</ul>
+<h2>Planning Manager</h2>
+<h3>Park Logistics - Nottingham (July 2018 to August 2019)</h3>
+<ul>
+  <li>Managed a small team of planners, organising the day to day activities of 12 vans and 24 furniture fitters across the UK</li>
+  <li>Ensured the smooth day to day running of the business by working to strict KPI’s, using systems such as Excel, Autoroute, Outlook and an online database called Azuralogin</li>
+</ul>
+<h2>Event Manager</h2>
+<h3>Logiclock Escape Rooms - Nottingham (October 2016 to August 2019)</h3>
+<ul>
+  <li>Managed and maintained event staff by recruiting, orienting, and training employees</li>
+  <li>Authored various online legal policies, including their on-site risk assessments, IT policies and GDPR policies</li>
+</ul>
 
-  <h2>Dispatch Manager</h2>
-  <h3>WeGo Couriers - Nottingham (September 2019 to August 2021)</h3> 
-  <ul>
-    <li>Managed a team of dispatchers to ensure the smooth running of the day to day operations</li>
-    <li>Completed company-wide profit vs. loss analysis to inform the CEO where to invest and where to focus improvements</li>
-    <li>Interviewed and successfully hired over 5 current members of staff</li>
-    <li>Utilised effective communication between couriers, customers and clients to ensure urgent blood samples were transported between hospitals</li>
-  </ul>
-  <h2>Planning Manager</h2>
-  <h3>Park Logistics - Nottingham (July 2018 to August 2019)</h3>
-  <ul>
-    <li>Managed a small team of planners, organising the day to day activities of 12 vans and 24 furniture fitters across the UK</li>
-    <li>Ensured the smooth day to day running of the business by working to strict KPI’s, using systems such as Excel, Autoroute, Outlook and an online database called Azuralogin</li>
-  </ul>
-  <h2>Event Manager</h2>
-  <h3>Logiclock Escape Rooms - Nottingham (October 2016 to August 2019)</h3>
-  <ul>
-    <li>Managed and maintained event staff by recruiting, orienting, and training employees</li>
-    <li>Authored various online legal policies, including their on-site risk assessments, IT policies and GDPR policies</li>
-  </ul>
+<h2>Section Editor (volunteer)</h2>
+<h3>Impact Magazine - Nottingham (July 2016 to July 2017)</h3>
+<ul>
+  <li>I was elected section editor for Impact, a student-led magazine and contributed to over 10 magazine editions with over 30 written articles both online and in print</li>
+</ul>
 
-  <h2>Section Editor (volunteer)</h2>
-  <h3>Impact Magazine - Nottingham (July 2016 to July 2017)</h3>
-  <ul>
-    <li>I was elected section editor for Impact, a student-led magazine and contributed to over 10 magazine editions with over 30 written articles both online and in print</li>
-  </ul>
-</details>
-<details>
-  <summary>Tech related</summary>
-  <h3>Your company (hopefully) 😉</h3>
-</details>
-
-<br>
 
 ## <a name="hobbies">My Hobbies / Interests</a>
 
@@ -125,37 +116,3 @@ and hypertrophy.
 #### Programming
 * I am currently working on a workout tracker, that I aim to turn into a social media platform to encourage and promote healthy lifestyles.
 * I'm currently conceptualising a nutritional tracker.
-
-
-<!-- 
-## Skills
-
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
- -->
