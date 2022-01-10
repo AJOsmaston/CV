@@ -57,28 +57,38 @@ A 16-week intensive software development Bootcamp with a bias towards holistic l
 ## <a name="experience">Work History</a>
 
 <details>
-<summary>Non-Tech related</summary>
+  <summary>Non-Tech related</summary>
 
-<h2>Dispatch Manager</h2>
-<h3>WeGo Couriers - Nottingham (September 2019 to August 2021)</h3> 
-<ul><li>At WEGO couriers, I managed a team of dispatchers to ensure the smooth running of the day to day operations of WEGO Couriers, an environmentally conscious courier company.</li>
-<li>Completed company-wide profit vs. loss analysis to inform the CEO where to invest and where to focus improvements.</li>
-<li>Spent brief period as a Hiring Manager, hiring additional dispatchers and couriers. As a Hiring Manager, I successfully scouted, interviewed and placed over 5 staff who still work there to this day.</li></ul>
-<h2>Planning Manager</h2>
-<h3>Park Logistics - Nottingham (July 2018 to August 2019)</h3>
-<ul><li>At Park Logistics, I managed a small team of planners, organising the day to day activities of 12 vans and 24 furniture fitters, covering all areas of England, Scotland and Wales.</li>
-<li>I ensured the smooth running of the business, working to strict KPI’s for weight (1240kg), revenue per van (£500), planned hours (10h/
-day) and miles (200mi/day).</li>
-<li> We would use systems such as Excel, Autoroute, Outlook and an online
-database called Azuralogin.</li></ul>
-<h2>Event Manager</h2>
-<h3>Logiclock Escape Rooms - Nottingham (October 2016 to August 2019)</h3>
-<ul><li>At Logiclock, I managed and maintained staff by recruiting, orienting, and training employees to the highest standards. I was directly involved in all points of the selection process, from analysing CVs to selecting candidates, interviewing and further orienting and training new starters.</li>
-<li>I was also in charge of completing legal policies, such as writing and maintaining their on-site risk assessments, IT policies and GDPR policies.</li>
+  <h2>Dispatch Manager</h2>
+  <h3>WeGo Couriers - Nottingham (September 2019 to August 2021)</h3> 
+  <ul>
+    <li>Managed a team of dispatchers to ensure the smooth running of the day to day operations</li>
+    <li>Completed company-wide profit vs. loss analysis to inform the CEO where to invest and where to focus improvements</li>
+    <li>Interviewed and successfully hired over 5 current members of staff</li>
+    <li>Utilised effective communication between couriers, customers and clients to ensure urgent blood samples were transported between hospitals</li>
+  </ul>
+  <h2>Planning Manager</h2>
+  <h3>Park Logistics - Nottingham (July 2018 to August 2019)</h3>
+  <ul>
+    <li>Managed a small team of planners, organising the day to day activities of 12 vans and 24 furniture fitters across the UK</li>
+    <li>Ensured the smooth day to day running of the business by working to strict KPI’s, using systems such as Excel, Autoroute, Outlook and an online database called Azuralogin</li>
+  </ul>
+  <h2>Event Manager</h2>
+  <h3>Logiclock Escape Rooms - Nottingham (October 2016 to August 2019)</h3>
+  <ul>
+    <li>Managed and maintained event staff by recruiting, orienting, and training employees</li>
+    <li>Authored various online legal policies, including their on-site risk assessments, IT policies and GDPR policies</li>
+  </ul>
+
+  <h2>Section Editor (volunteer)</h2>
+  <h3>Impact Magazine - Nottingham (July 2016 to July 2017)</h3>
+  <ul>
+    <li>I was elected section editor for Impact, a student-led magazine and contributed to over 10 magazine editions with over 30 written articles both online and in print</li>
+  </ul>
 </details>
 <details>
   <summary>Tech related</summary>
-  <h2>Your company (hopefully) 😉</h2>
+  <h3>Your company (hopefully) 😉</h3>
 </details>
 
 <br>
