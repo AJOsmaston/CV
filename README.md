@@ -6,7 +6,7 @@
 [<img src="https://img.shields.io/badge/Linkedin-Anthony%20Osmaston-blue?social&logo=linkedin&labelColor=0077B5&color=ffffff"/>](https://www.linkedin.com/in/ajosmaston/)
 [<img src="https://img.shields.io/badge/Codewars-AJOsmaston-black?social&logo=codewars&labelColor=black&color=red" />](https://www.codewars.com/users/AJOsmaston)
 
-[About](#about) | [Projects](#projects) | [Education](#education) | [Work History](#experience) | [Hobbies](#hobbies)
+[About](#about) | [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Work History](#experience) | [Hobbies](#hobbies)
 
 </div>
 
@@ -25,26 +25,32 @@
 | [Life of Bernard (BE)](https://github.com/AJOsmaston/EP3-Gaming-BE) | A collection of API's for the game logic and account authentication | JS - MongoDB, Express.js, Node.js  | https://life-of-bernard.herokuapp.com/ |
 | [Facebook Clone](https://github.com/AJOsmaston/Acebook-st-bals)| A social media news feed with posts, likes and comments | Ruby - Ruby on Rails, RSpec, Capybara, PostgreSQL, Bootstrap | https://acebook-st-bals.herokuapp.com/ |
 | [TDD'ing Codewars](https://github.com/AJOsmaston/codewars)| A 'for-fun' repo to help me improve my TDD skills | Ruby - RSpec, JS - Jest | |
+| [Feedback UI](https://github.com/AJOsmaston/feedback-ui) | First project from [React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/?src=sac&kw=react+back+to) | Javascript, React, React Router DOM, NodeJS, MongoDB, Express | https://ajo-feedback-ui.herokuapp.com/ | 
 | | Currently working on: | | |
-| [Feedback UI](https://github.com/AJOsmaston/feedback-ui)| First project from https://www.udemy.com/course/react-front-to-back-2022/?src=sac&kw=react+back+to  | JS - React  | |
+| [Nutrition App](https://github.com/AJOsmaston/NutritionApp) | Mobile Application to track macronutrients | Javascript, React Native, React, Android Studio | |
+| [Github Finder](https://github.com/AJOsmaston/github_finder) | Second project from [React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/?src=sac&kw=react+back+to) | Javascript, React, React Router Dom, DaisyUI  | |
+| | | | |
 
 ## <a name="skills">Skills</a>
 
 #### Quick Learner
 
-During my time at Wego Couriers, I researched and conducted a full scale profit vs. loss business analysis upon request from our CEO, and was given one month to complete the task. At Makers, for our [final project](https://life-of-bernard.herokuapp.com/), I learnt how to use passport.js and Express in the space of two days. I learnt this without it being taught on the course and implemented it so that our Node backend could communicate with our Heroku hosted React frontend, on https.
+Whilst working for Wego Couriers, I researched and conducted a full scale profit vs. loss business analysis upon request from our CEO, and was given one month to complete the task. I was able to effectively collect data from across all parts of the business and was able to identify key areas of focus for the company. As a direct result, I saved the company thousands of pounds in direct revenue. At Makers, for our [final project](https://life-of-bernard.herokuapp.com/), I learnt how to use all parts of the MERN stack (MongoDB, Express, React.js and Node.js) in order to create a full stack application. Within 2 weeks, we had successfully implemented a backend that could communicate with a NoSQL database and a front end React application, over both HTTP and HTTPS.
+
+#### Work with an Agile approach
+
+At Wego Couriers, I would regularly respond to urgent blood transfusion requests, where the difference of a few secounds could result in the tragic loss of a life. I once received a phone call requesting immediate support, and was able to dispatch the closest courier to their location, who arrived within 7 minutes. Due to this ability to quickly respond quickly to new developments, the patient survived their operation. At Makers, during our final challenge, we were struggling to get our backend and frontend application to communicate over HTTPS. I was able to learn about secure cookies and implement the working change on my own within two days, and as a result [our project](https://life-of-bernard.herokuapp.com/) was able to communicate flawlessly. 
+
 
 #### Succinct and Eloquent Communicator
 
-Whether it be clients, customers, members of the general public or conversing with peers, I am able to clearly articulate my thoughts in a polite and thoughtful manner. I have often been complemented on my calm and helpful demeanour, and believe that I can facilitate direct and effective communcation with any team that I am a part of. I have worked as an editor for a magazine, have regularly been a manager in my more recent roles, and have even worked in direct customer service. 
+Whether it be clients, customers, members of the general public or conversing with peers, I am able to clearly articulate my thoughts in a polite and thoughtful manner. Whilst working for WEGO Couriers I would regularly communicate with clients in the private and public healthcare industries, liaise with managers of the Train Operating Companies EMR and GWR, and regularly communicate with members of the public and staff of businesses of all size. As a result of this exposure to people working in many different fields, I am able to clearly understand client requests and translate these requests into actionable results.
 
-#### Calm Under Pressure
-
-At Wego Couriers, I would regularly respond to urgent blood transfusion requests, where the difference of a few secounds could result in the tragic loss of a life. I am able to seperate my personal feelings from a working environment if needed in order to see a more objective path to a goal. At Makers, during our Acebook Challenge, I was able to isolate and rectify [a modal bug](https://github.com/AJOsmaston/Acebook-st-bals/commit/68d62ae3a264e668e7e73f67cc125fa4bdf9b084) that was identified 30 minutes before we were due to present our final product, resulting in a flawless final project demonstration.
 
 #### Effective Time Management
 
-From single handedly managing a multi-thousand pound contract with the NHS to quickly respond to the COVID crisis to completing three different engineering projects and ten different weekend challenges at Makers Academy, I am able to organise and manage my time effectively to meet any given deadlines.
+Whilst at WEGO Couriers, I was able to single handedly manage a multi-thousand pound contract with the NHS to quickly respond to the COVID crisis, delivering over 500 items across Nottinghamshire within the space of 2 weeks. At Makers Academy, I have completed three different engineering projects and ten different weekend challenges, and as a result believe that I am able to organise and manage my time effectively to meet any given deadline.
+
 
 ## <a name="education">Education</a>
 
@@ -106,9 +112,9 @@ and hypertrophy.
 * I am currently trialing the [PHAT](https://advancedbodymetrics.com/workout-routines/the-phat-workout-build-mass-strength/) routine.
 
 #### PC Gaming
-* Single-player open-world games are my favourite, closely followed by single-player/coop horror.
+* Single-player open-world games are my favourite games to play, closely followed by single-player/coop horror.
 * I am currently exploring Outer Wilds.
 
 #### Programming
-* I am currently working on a workout tracker, that I aim to turn into a social media platform to encourage and promote healthy lifestyles.
-* I'm currently conceptualising a nutritional tracker.
+* I am currently working on a nutritional tracker to track macronutrients, taking a "mobile first" development approach.
+* I'm currently working my way through the [React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/?src=sac&kw=react+back+to) course on Udemy.
